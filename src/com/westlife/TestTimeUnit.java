@@ -4,7 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Author: westlife
- * @Description:
+ * @Description: TimeUnit时间转换
  * @Date: Created in 15:17 2017/12/22
  */
 public class TestTimeUnit {
